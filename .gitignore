@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/osm/
+data/gtfs/
+outputs/
+*.pbf
+*.zip
+*.gpkg
+*.qgz
