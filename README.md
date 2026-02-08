@@ -7,7 +7,6 @@ Starting from a fixed origin, the project computes travel times on a regular gri
 ## What this shows
 - How far you can reach from a single origin within fixed travel times
 - How transfer limits reshape accessibility patterns
-- Why single-line journeys often feel shorter than multi-transfer ones, even when total time is similar
 
 ## Data
 - GTFS: ATM Milan
@@ -28,6 +27,4 @@ Starting from a fixed origin, the project computes travel times on a regular gri
 - r5py
 - QGIS (for visualization)
 
-## Notes
-This is an exploratory project. The goal is understanding how network structure and transfers shape everyday accessibility.
 
